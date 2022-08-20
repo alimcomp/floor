@@ -1,4 +1,4 @@
-import 'package:floor/floor.dart';
+import 'package:floor_ffi/floor_ffi.dart';
 
 enum TaskType {
   open('Open'),

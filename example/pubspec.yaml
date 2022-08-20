@@ -12,6 +12,8 @@ environment:
 dependencies:
   floor:
     path: ../floor/
+  floor_ffi:
+    path: ../floor_ffi/
   flutter:
     sdk: flutter
 
