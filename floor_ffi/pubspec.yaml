@@ -1,9 +1,9 @@
-name: floor
+name: floor_ffi
 description: >
   The typesafe, reactive, and lightweight SQLite abstraction for your Flutter applications.
   This library is the runtime dependency.
-version: 1.3.0
-homepage: https://pinchbv.github.io/floor/
+version: 1.2.0
+homepage: https://floor.codes
 publish_to: none
 
 environment:
@@ -14,9 +14,6 @@ dependencies:
     path: ../floor_annotation/
   floor_common:
     path: ../floor_common/
-  flutter:
-    sdk: flutter
   meta: ^1.7.0
-  path: ^1.8.1
-  sqflite: ^2.0.0+4
+  path: ^1.8.0
   sqflite_common_ffi: ^2.0.0+3
